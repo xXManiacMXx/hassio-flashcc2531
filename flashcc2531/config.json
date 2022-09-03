@@ -13,6 +13,7 @@
   "privileged": ["SYS_RAWIO"],
   "gpio": "true",
   "apparmor": "true",
+  "init": "false",
   "ports": {
   },
   "schema": {}
