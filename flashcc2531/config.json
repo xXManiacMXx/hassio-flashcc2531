@@ -1,6 +1,6 @@
 {
   "name": "flashcc2531",
-  "version": "15",
+  "version": "16",
   "slug": "flashcc2531",
   "description": "Flash Zigbee USBStick CC2531",
   "url":"https://github.com/claudiu-mihai/hassio-flashcc2531",
