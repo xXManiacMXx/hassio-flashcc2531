@@ -1,8 +1,8 @@
 {
-  "name": "flashcc2531",
-  "version": "17",
+  "name": "flashCC2652P",
+  "version": "18",
   "slug": "flashcc2531",
-  "description": "Flash Zigbee USBStick CC2531",
+  "description": "Flash Zigbee USBStick CC2652P",
   "url":"https://github.com/claudiu-mihai/hassio-flashcc2531",
   "arch": ["armhf", "armv7", "aarch64"],
   "startup": "once",
