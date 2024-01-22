@@ -17,6 +17,6 @@ echo "erase"
 ./cc_erase
 
 echo "flash firmware"
-./cc_write CC2531_20190425.hex
+./cc_write CC2531ZNP-with-SBL.hex
 
 echo "Finished"
